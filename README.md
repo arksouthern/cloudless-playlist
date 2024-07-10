@@ -1,1 +1,27 @@
 # cloudless-playlist
+## APIs
+```
+playlistAllFetchTiny
+playlistAllFetchDetailed
+playlistAllExportToDisk
+
+urlPlaylistFetchDetailed
+urlPlaylistDownload
+
+playlistFetchRank
+playlistFetchUpdatedInfo
+playlistDeleteDbRecord
+
+downloadingCurrentlyGet
+
+songTagsReplace
+
+songAudioFetchBlobToPlay
+songAudioTrim
+
+songFileDeleteThenRedownload
+
+songBatchTagsReplace
+songBatchFetchFilterNotDownloaded
+songBatchAssignToPlaylistThenDownload
+```
