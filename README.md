@@ -24,4 +24,10 @@ songFileDeleteThenRedownload
 songBatchTagsReplace
 songBatchFetchFilterNotDownloaded
 songBatchAssignToPlaylistThenDownload
+
+doesHaveFfmpeg
+
+apiHealthCheckConnect
+
+HARD_UPDATE
 ```
